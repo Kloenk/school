@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+  "http-server",
+]
+
+default-members = [
+  "http-server",
+]
